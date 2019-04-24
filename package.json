@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/testingprofessional/websitePortfolio#readme",
   "devDependencies": {
-    "ftp-deploy": "^2.3.3"
+    "ftp-deploy": "^2.3.3",
+    "gulp": "^4.0.1"
   }
 }
